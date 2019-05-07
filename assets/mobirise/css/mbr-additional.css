@@ -50,10 +50,10 @@ body {
 }
 .display-7 {
   font-family: 'Raleway', sans-serif;
-  font-size: 1rem;
+  font-size: 0.9rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.44rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -2090,7 +2090,7 @@ body {
 }
 .cid-rpNBsG2cMy {
   padding-top: 75px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rpNBsG2cMy .mbr-section-subtitle {
@@ -2116,7 +2116,7 @@ body {
   background-color: #ffffff;
 }
 .cid-rpNBsG2cMy .mbr-testimonial .panel-item:hover {
-  box-shadow: 0 10px 55px 5px rgba(58, 58, 58, 0.35);
+  box-shadow: 0 10px 55px 5px rgba(58, 58, 58, 0.25);
   transform: translateY(-1.5rem);
 }
 .cid-rpNBsG2cMy .mbr-testimonial .card-block {
@@ -2173,8 +2173,8 @@ body {
   color: #ff6c00;
 }
 .cid-rpNCKRblTp {
-  padding-top: 0px;
-  padding-bottom: 45px;
+  padding-top: 15px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-rpNCKRblTp .mbr-section-subtitle {
@@ -2565,6 +2565,7 @@ body {
 .cid-rpI16wTANC .item h4 {
   padding-left: 10px;
   margin: 0;
+  line-height: 1.5rem;
 }
 .cid-rpI16wTANC .media-wrap {
   margin-bottom: 1rem;
