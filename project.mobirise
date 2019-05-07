@@ -1223,7 +1223,7 @@
             "overlayColor": "#efefef",
             "overlayOpacity": 0.6
           },
-          "title": "<b>Instagram Feed</b>",
+          "title": "<font color=\"#ff6c00\"><b>Forma parte de la comunidad Pal Consulting</b></font>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
           "display2": "display-2",
           "display4": "display-4",
