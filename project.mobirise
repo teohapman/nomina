@@ -759,7 +759,7 @@
                 "transition": "all 0.3s",
                 "background-color": "@cardsColor",
                 "&:hover": {
-                  "box-shadow": "0 10px 55px 5px rgba(137, 173, 255, 0.35)",
+                  "box-shadow": "0 10px 55px 5px rgba(58, 58, 58, 0.35)",
                   "transform": "translateY(-1.5rem)"
                 }
               },
@@ -827,7 +827,9 @@
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "alias": false,
@@ -863,7 +865,7 @@
                 "transition": "all 0.3s",
                 "background-color": "@cardsColor",
                 "&:hover": {
-                  "box-shadow": "0 10px 55px 5px rgba(137, 173, 255, 0.35)",
+                  "box-shadow": "0 10px 55px 5px rgba(58, 58, 58, 0.35)",
                   "transform": "translateY(-1.5rem)"
                 }
               },
@@ -928,7 +930,9 @@
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "alias": false,
