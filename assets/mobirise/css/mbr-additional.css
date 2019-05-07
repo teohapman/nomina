@@ -50,10 +50,10 @@ body {
 }
 .display-7 {
   font-family: 'Raleway', sans-serif;
-  font-size: 0.9rem;
+  font-size: 0.93rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.44rem;
+  font-size: 1.488rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
