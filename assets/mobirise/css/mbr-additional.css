@@ -1874,7 +1874,7 @@ body {
 .cid-rpI7y7vsDb .field-input:hover,
 .cid-rpI7y7vsDb .form-control:focus,
 .cid-rpI7y7vsDb .field-input:focus {
-  background-color: #feede6;
+  background-color: #ff6c00;
   border-color: #ffdbc9;
   color: #ffffff;
   box-shadow: none;
@@ -1895,14 +1895,14 @@ body {
 }
 .cid-rpI7y7vsDb .jq-selectbox li:hover,
 .cid-rpI7y7vsDb .jq-selectbox li.selected {
-  background-color: #feede6;
+  background-color: #ff6c00;
   color: #000000;
 }
 .cid-rpI7y7vsDb .jq-selectbox:hover .jq-selectbox__trigger-arrow {
   border-top-color: #efefef;
 }
 .cid-rpI7y7vsDb .jq-selectbox .jq-selectbox__trigger-arrow {
-  border-top-color: #feede6;
+  border-top-color: #ff6c00;
 }
 .cid-rpI7y7vsDb H5 {
   color: #ffffff;
@@ -2116,7 +2116,7 @@ body {
   background-color: #ffffff;
 }
 .cid-rpNBsG2cMy .mbr-testimonial .panel-item:hover {
-  box-shadow: 0 10px 55px 5px rgba(58, 58, 58, 0.25);
+  box-shadow: 0 10px 55px 5px rgba(58, 58, 58, 0.039);
   transform: translateY(-1.5rem);
 }
 .cid-rpNBsG2cMy .mbr-testimonial .card-block {
@@ -2200,7 +2200,7 @@ body {
   background-color: #ffffff;
 }
 .cid-rpNCKRblTp .mbr-testimonial .panel-item:hover {
-  box-shadow: 0 10px 55px 5px rgba(58, 58, 58, 0.35);
+  box-shadow: 0 10px 55px 5px rgba(58, 58, 58, 0.039);
   transform: translateY(-1.5rem);
 }
 .cid-rpNCKRblTp .mbr-testimonial .card-block {
