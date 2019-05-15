@@ -47,7 +47,7 @@
     "uniqCompNum": 72,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/pal-monograma1.5x-128x128.png",
     "noImageResize": "",
     "siteUrl": "undefined",
     "google-analytics": ""
